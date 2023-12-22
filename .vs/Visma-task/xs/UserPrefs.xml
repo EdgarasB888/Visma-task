@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{67B7011D-DBD3-45CC-B008-C49B648341F6}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Visma-task/Data/Repositories/ShortagesRepository.cs">
+    <Files>
+      <File FileName="Visma-task/Program.cs" Line="15" Column="32" IsPinned="True" />
+      <File FileName="Visma-task/UI/ConsoleUIManager.cs" Line="111" Column="64" IsPinned="True" />
+      <File FileName="Visma-task/Controllers/ShortagesController.cs" Line="20" Column="33" IsPinned="True" />
+      <File FileName="Unit_tests/Usings.cs" Line="8" Column="14" IsPinned="True" />
+      <File FileName="Unit_tests/ShortagesControllerTests.cs" />
+      <File FileName="Visma-task/Data/Repositories/ShortagesRepository.cs" Line="24" Column="43" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Visma-task" expanded="True">
+            <Node name="Unit_tests" expanded="True" />
+            <Node name="Visma-task" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True">
+                <Node name="Repositories" expanded="True">
+                  <Node name="ShortagesRepository.cs" selected="True" />
+                </Node>
+              </Node>
+              <Node name="UI" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Unit__tests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Visma-task PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

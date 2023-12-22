@@ -1,0 +1,34 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>Visma_task</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Data\" />
+    <None Remove="Data\Entities\" />
+    <None Remove="Data\Entities\Enums\" />
+    <None Remove="Controllers\" />
+    <None Remove="Data\Repositories\" />
+    <None Remove="UI\" />
+    <None Remove="Data\Entities\Enums\Helpers\" />
+    <None Remove="Data\Validations\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Data\" />
+    <Folder Include="Data\Entities\" />
+    <Folder Include="Data\Entities\Enums\" />
+    <Folder Include="Controllers\" />
+    <Folder Include="Data\Repositories\" />
+    <Folder Include="UI\" />
+    <Folder Include="Data\Entities\Enums\Helpers\" />
+    <Folder Include="Data\Validations\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+</Project>

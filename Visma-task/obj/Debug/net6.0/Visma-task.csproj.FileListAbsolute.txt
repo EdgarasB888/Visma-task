@@ -1,0 +1,17 @@
+/Users/imac/Projects/Visma-task/Visma-task/bin/Debug/net6.0/Visma-task
+/Users/imac/Projects/Visma-task/Visma-task/bin/Debug/net6.0/Visma-task.deps.json
+/Users/imac/Projects/Visma-task/Visma-task/bin/Debug/net6.0/Visma-task.runtimeconfig.json
+/Users/imac/Projects/Visma-task/Visma-task/bin/Debug/net6.0/Visma-task.dll
+/Users/imac/Projects/Visma-task/Visma-task/bin/Debug/net6.0/Visma-task.pdb
+/Users/imac/Projects/Visma-task/Visma-task/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/imac/Projects/Visma-task/Visma-task/obj/Debug/net6.0/Visma-task.csproj.AssemblyReference.cache
+/Users/imac/Projects/Visma-task/Visma-task/obj/Debug/net6.0/Visma-task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/imac/Projects/Visma-task/Visma-task/obj/Debug/net6.0/Visma-task.AssemblyInfoInputs.cache
+/Users/imac/Projects/Visma-task/Visma-task/obj/Debug/net6.0/Visma-task.AssemblyInfo.cs
+/Users/imac/Projects/Visma-task/Visma-task/obj/Debug/net6.0/Visma-task.csproj.CoreCompileInputs.cache
+/Users/imac/Projects/Visma-task/Visma-task/obj/Debug/net6.0/Visma-task.csproj.CopyComplete
+/Users/imac/Projects/Visma-task/Visma-task/obj/Debug/net6.0/Visma-task.dll
+/Users/imac/Projects/Visma-task/Visma-task/obj/Debug/net6.0/refint/Visma-task.dll
+/Users/imac/Projects/Visma-task/Visma-task/obj/Debug/net6.0/Visma-task.pdb
+/Users/imac/Projects/Visma-task/Visma-task/obj/Debug/net6.0/Visma-task.genruntimeconfig.cache
+/Users/imac/Projects/Visma-task/Visma-task/obj/Debug/net6.0/ref/Visma-task.dll
